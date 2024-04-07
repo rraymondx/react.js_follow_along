@@ -1,10 +1,10 @@
-import MyComponent from "./updateArraysOfObjects/MyComponent";
+import ToDoList from "./ToDo List/ToDoList.jsx";
 
 function App() {
 
     return(
         <>
-            <MyComponent />
+            <ToDoList />
         </>
     );
 
