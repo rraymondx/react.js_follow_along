@@ -1,4 +1,4 @@
-import MyComponent from "./using(onChange)/MyComponent";
+import MyComponent from "./updateArrays/MyComponent";
 
 function App() {
 
